@@ -1,5 +1,5 @@
 maintainer       "Heavy Water Software Inc."
-name              "chef-locale"
+name             "chef-locale"
 maintainer_email "darrin@heavywater.ca"
 license          "Apache 2.0"
 description      "Installs/Configures locale"
